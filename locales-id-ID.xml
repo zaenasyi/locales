@@ -164,8 +164,8 @@
       <multiple>ayat</multiple>
     </term>
     <term name="volume">
-      <single>volume</single>
-      <multiple>volume</multiple>
+      <single>Jilid</single>
+      <multiple>Jilid</multiple>
     </term>
 
     <!-- SHORT LOCATOR FORMS -->
@@ -198,8 +198,8 @@
       <multiple>a.</multiple>
     </term>
     <term name="volume" form="short">
-      <single>vol.</single>
-      <multiple>vol.</multiple>
+      <single>Jilid.</single>
+      <multiple>Jilid.</multiple>
     </term>
 
     <!-- SYMBOL LOCATOR FORMS -->
